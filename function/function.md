@@ -1,6 +1,6 @@
 # Các chức năng chính
 
-1. Thao tác tài khoản cộng tác viên
+1. Admin thao tác tài khoản cộng tác viên
 
   - Thêm
 
@@ -20,3 +20,9 @@
 
   - Người dùng có thể  xem lịch sử nạp thẻ
 
+3. Admin role 
+  - Khóa tài khoản người dùng
+
+  - Khóa tài khoản cộng tác viên
+
+  - Cộng tiền cho người dùng
