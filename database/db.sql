@@ -76,4 +76,6 @@ ADD FOREIGN KEY (id_account) REFERENCES accounts(id);
 ALTER TABLE cards
 ADD FOREIGN KEY (id_user) REFERENCES users(id);
 
+ALTER TABLE carts
+ADD FOREIGN KEY(id_user) REFERENCES users(id);
 
